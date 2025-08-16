@@ -1,4 +1,6 @@
-﻿Clear-Host 
+﻿#Editado por Lalo Tamez 16/08/2025
+
+Clear-Host 
 
 Import-Module AuditoriaBasica 
 
