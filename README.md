@@ -9,3 +9,4 @@ El Ejercicio 5 es para verificar que el archivo que utilizemos exista.
 El Ejercicio 6 es una auditoria basica para los usuarios y los servicios.
 
 Al desarrollar esto aprendi que algo tan minimo como verificar los usuarios pueda detectar algun malware en el equipo.
+Lalo Tamez
