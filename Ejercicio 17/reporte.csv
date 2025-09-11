@@ -1,0 +1,4 @@
+Titulo,Dominio,Fecha de Brecha,Datos Comprometidos,Verificada,Sensible
+Apollo,apollo.io,2018-07-23,"Email addresses, Employers, Geographic locations, Job titles, Names, Phone numbers, Salutations, Social media profiles",Si,No
+Canva,canva.com,2019-05-24,"Email addresses, Geographic locations, Names, Passwords, Usernames",Si,No
+yotepresto.com,yotepresto.com,2020-06-22,"Email addresses, IP addresses, Passwords, Usernames",Si,No

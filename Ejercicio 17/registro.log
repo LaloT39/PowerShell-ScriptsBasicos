@@ -1,0 +1,25 @@
+2025-09-04 01:07:10,675 - INFO - Consulta exitosa para correo@example.com. Brechas encontradas> 13
+2025-09-04 01:07:11,288 - ERROR - Error al obtener detalles de la brecha OnlinerSpambot: I/O operation on closed file.
+2025-09-04 01:13:46,451 - INFO - Consulta exitosa para correo@example.com. Brechas encontradas> 13
+2025-09-04 01:13:47,065 - ERROR - Error al obtener detalles de la brecha OnlinerSpambot: I/O operation on closed file.
+2025-09-04 01:13:57,717 - ERROR - Error al obtener detalles de la brecha Wattpad: I/O operation on closed file.
+2025-09-04 01:14:08,571 - ERROR - Error al obtener detalles de la brecha Cit0day: I/O operation on closed file.
+2025-09-04 01:16:06,537 - INFO - Consulta exitosa para correo@example.com. Brechas encontradas> 13
+2025-09-04 01:16:07,252 - ERROR - Error al obtener detalles de la brecha OnlinerSpambot: I/O operation on closed file.
+2025-09-04 01:16:18,005 - ERROR - Error al obtener detalles de la brecha Wattpad: I/O operation on closed file.
+2025-09-04 01:16:28,658 - ERROR - Error al obtener detalles de la brecha Cit0day: I/O operation on closed file.
+2025-09-11 00:21:24,570 - INFO - Consulta exitosa para eduardo.tamezo@uanl.edu.mx. No se encontraron brechas
+2025-09-11 00:22:21,876 - INFO - Consulta exitosa para algo@example.com. Brechas encontradas> 1
+2025-09-11 00:22:22,374 - ERROR - Error al obtener detalles de la brecha Gravatar: I/O operation on closed file.
+2025-09-11 00:23:51,782 - INFO - Consulta exitosa para algo@example.com. Brechas encontradas> 1
+2025-09-11 00:23:52,295 - ERROR - Error al obtener detalles de la brecha Gravatar: I/O operation on closed file.
+2025-09-11 00:25:37,665 - INFO - Consulta exitosa para algo@correo.com. Brechas encontradas> 3
+2025-09-11 00:25:38,280 - ERROR - Error al obtener detalles de la brecha Apollo: I/O operation on closed file.
+2025-09-11 00:25:48,932 - ERROR - Error al obtener detalles de la brecha Canva: I/O operation on closed file.
+2025-09-11 00:25:59,580 - ERROR - Error al obtener detalles de la brecha YoteprestoCom: I/O operation on closed file.
+2025-09-11 00:26:43,509 - INFO - Consulta exitosa para algo@correo.com. Brechas encontradas> 3
+2025-09-11 00:26:44,226 - ERROR - Error al obtener detalles de la brecha Apollo: I/O operation on closed file.
+2025-09-11 00:26:54,876 - ERROR - Error al obtener detalles de la brecha Canva: I/O operation on closed file.
+2025-09-11 00:27:05,526 - ERROR - Error al obtener detalles de la brecha YoteprestoCom: I/O operation on closed file.
+2025-09-11 00:29:28,782 - INFO - Consulta exitosa para algo@correo.com. Brechas encontradas> 3
+2025-09-11 00:30:25,286 - INFO - Consulta exitosa para algo@correo.com. Brechas encontradas> 3
